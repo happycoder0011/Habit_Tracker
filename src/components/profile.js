@@ -1,8 +1,6 @@
-import React, { Component,useState} from 'react';
-import ReactDOM, { render } from 'react-dom';
+import React, {useState} from 'react';
 import './profile.css';
-import img from './../assets/img.jpg';
-import Progresschart from './progress_chart';
+import img from './../assets/profile.png';
 import Inputbox from './inputbox';
 function Profile()
 {
