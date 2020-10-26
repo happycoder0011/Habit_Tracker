@@ -1,7 +1,7 @@
 # Welcome to  Habit tracker App Tutorial
 ***
 ### What this app does?
-**This app is basically a habit tracker app that uses github contribution graph as its inspiration to mark the graph daily an help you form new habits.** The idea of this app came to my mind when I started learning development and contributing actively on github. It was my motivation to make something daily and commit on github to keep that graph green. It really motivated me to code daily. So I thought of extending this to other habits. We all know how difficult it is to keep track of habits and continue them for long. 
+**This app is basically a habit tracker app that uses github contribution graph as its inspiration to mark the graph daily can help you form new habits.** The idea of this app came to my mind when I started learning development and contributing actively on github. It was my motivation to make something daily and commit on github to keep that graph green. It really motivated me to code daily. So I thought of extending this to other habits. We all know how difficult it is to keep track of habits and continue them for long. 
 
 ## Who is this tutorial for?
 This is a beginner-friendly tutorial. It aims to get you familiar with react focused development. You will be learning about JSX, React-dom, React hooks and an additional about CSS layout.
