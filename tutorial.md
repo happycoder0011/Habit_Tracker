@@ -1,7 +1,7 @@
 # Welcome to  Habit tracker App Tutorial
 ***
 ### What this app does?
-**This app is basically a habit tracker app that uses github contribution graph as its inspiration to mark the graph daily an help you form new habits**
+**This app is basically a habit tracker app that uses github contribution graph as its inspiration to mark the graph daily an help you form new habits.**
 
 ## Who is this tutorial for?
 This is a beginner-friendly tutorial. It aims to get you familiar with react focused development. You will be learning about JSX, React-dom, React hooks and an additional about CSS layout.
@@ -29,13 +29,14 @@ The third and the last component in the green box is our **progresschart.js** fi
 #### 4.File Structure
 We will be working in the src folder. So the change is confined to the src folder.
 
+
 #### 5. Start Creating
 To setup your basic react boiler plate use the command :
 ```sh
 Create-react-app habit_tracker
 ```
 Refer to the following document, if you are creating react-app for the first time.
-link--
+[Setup react](https://docs.google.com/document/d/1C6-f56G1dMCv9cs89lknZYiyz_wqCADUBilniqjVKfk/edit?usp=sharing)
 You should cd(change directory) to habit_tracker and use command to start the server:
 ```sh
 npm start
