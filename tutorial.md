@@ -89,7 +89,8 @@ You can see the App.js file just has the Profile component. The furthur componen
 #### 6. Creating components
 We majorly have 3 different components. We have made the .js file for our jsx code and the css file for styling. 
 Lets start with the most exciting and interesting part that is the graph. I was searching around to get some help and I came across, this really awesome tutorial by **Ire Aderinokun** on recreating github contribution graph. I have referred the same article to create the graph component.
-link -- (Link to the article)
+
+[Link to the article](https://bitsofco.de/github-contribution-graph-css-grid/)
 
 Progresschart.js
 ```sh
