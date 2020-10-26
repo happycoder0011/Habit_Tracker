@@ -17,6 +17,9 @@ React revolves around the philosophy of dividing the whole interface into vaible
 Let's have a look at what we are going to build in this tutorial and it's interpretation the react way.
 
 
+![components](src/assets/components.png)
+
+
 The boxes(red,green and blue) you see mark the different components we have made individually.
 
 The first box in green you see is the **profile.js** file in our porject. It shows the user profile photo, name and maybe their favorite qoute. It also has the **ADD HABIT** button. 
@@ -28,6 +31,8 @@ The third and the last component in the green box is our **progresschart.js** fi
 
 #### 4.File Structure
 We will be working in the src folder. So the change is confined to the src folder.
+![Filestructure1](src/assets/filestructure1.png)
+![Filestructure2](src/assets/filestructure2.png)
 
 
 #### 5. Start Creating
@@ -36,7 +41,10 @@ To setup your basic react boiler plate use the command :
 Create-react-app habit_tracker
 ```
 Refer to the following document, if you are creating react-app for the first time.
+
 [Setup react](https://docs.google.com/document/d/1C6-f56G1dMCv9cs89lknZYiyz_wqCADUBilniqjVKfk/edit?usp=sharing)
+
+
 You should cd(change directory) to habit_tracker and use command to start the server:
 ```sh
 npm start
