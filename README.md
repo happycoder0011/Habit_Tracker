@@ -1,4 +1,4 @@
-# Check Tutorial [https://github.com/happycoder0011/Habit_Tracker/blob/master/tutorial.md]
+# [Check Tutorial](https://github.com/happycoder0011/Habit_Tracker/blob/master/tutorial.md)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
